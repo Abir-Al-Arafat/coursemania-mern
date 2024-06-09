@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Course 1",
+    "price": 15,
+    "author": "Author A",
+    "category": "Programming",
+    "chapters": [{ "name": "Chapter 1" }, { "name": "Chapter 2" }],
+    "description": "Description for Course 1",
+    "releaseDate": "2023-10-10",
+    "img": "course1.jpg",
+    "discount": "discount_1"
+  },
+  {
+    "title": "Course 2",
+    "price": 20,
+    "author": "Author B",
+    "category": "Design",
+    "chapters": [
+      { "name": "Chapter 1" },
+      { "name": "Chapter 2" },
+      { "name": "Chapter 3" }
+    ],
+    "description": "Description for Course 2",
+    "releaseDate": "2023-11-01",
+    "img": "course2.jpg",
+    "discount": "discount_2"
+  },
+  {
+    "title": "Course 3",
+    "price": 18,
+    "author": "Author C",
+    "category": "Marketing",
+    "chapters": [
+      { "name": "Chapter 1" },
+      { "name": "Chapter 2" },
+      { "name": "Chapter 3" }
+    ],
+    "description": "Description for Course 3",
+    "releaseDate": "2023-09-25",
+    "img": "course3.jpg",
+    "discount": "discount_3"
+  },
+  {
+    "title": "Course 4",
+    "price": 12,
+    "author": "Author D",
+    "category": "Finance",
+    "chapters": [{ "name": "Chapter 1" }, { "name": "Chapter 2" }],
+    "description": "Description for Course 4",
+    "releaseDate": "2023-10-05",
+    "img": "course4.jpg",
+    "discount": "discount_4"
+  },
+  {
+    "title": "Course 5",
+    "price": 25,
+    "author": "Author E",
+    "category": "Art",
+    "chapters": [
+      { "name": "Chapter 1" },
+      { "name": "Chapter 2" },
+      { "name": "Chapter 3" }
+    ],
+    "description": "Description for Course 5",
+    "releaseDate": "2023-10-20",
+    "img": "course5.jpg",
+    "discount": "discount_5"
+  },
+  {
+    "title": "Course 6",
+    "price": 16,
+    "author": "Author F",
+    "category": "Health",
+    "chapters": [
+      { "name": "Chapter 1" },
+      { "name": "Chapter 2" },
+      { "name": "Chapter 3" }
+    ],
+    "description": "Description for Course 6",
+    "releaseDate": "2023-11-15",
+    "img": "course6.jpg",
+    "discount": "discount_6"
+  },
+  {
+    "title": "Course 7",
+    "price": 22,
+    "author": "Author G",
+    "category": "Science",
+    "chapters": [{ "name": "Chapter 1" }, { "name": "Chapter 2" }],
+    "description": "Description for Course 7",
+    "releaseDate": "2023-09-15",
+    "img": "course7.jpg",
+    "discount": "discount_7"
+  },
+  {
+    "title": "Course 8",
+    "price": 30,
+    "author": "Author H",
+    "category": "Cooking",
+    "chapters": [
+      { "name": "Chapter 1" },
+      { "name": "Chapter 2" },
+      { "name": "Chapter 3" }
+    ],
+    "description": "Description for Course 8",
+    "releaseDate": "2023-10-30",
+    "img": "course8.jpg",
+    "discount": "discount_8"
+  },
+  {
+    "title": "Course 9",
+    "price": 14,
+    "author": "Author I",
+    "category": "Language",
+    "chapters": [{ "name": "Chapter 1" }, { "name": "Chapter 2" }],
+    "description": "Description for Course 9",
+    "releaseDate": "2023-11-05",
+    "img": "course9.jpg",
+    "discount": "discount_9"
+  },
+  {
+    "title": "Course 10",
+    "price": 17,
+    "author": "Author J",
+    "category": "Music",
+    "chapters": [
+      { "name": "Chapter 1" },
+      { "name": "Chapter 2" },
+      { "name": "Chapter 3" }
+    ],
+    "description": "Description for Course 10",
+    "releaseDate": "2023-09-10",
+    "img": "course10.jpg",
+    "discount": "discount_10"
+  }
+]

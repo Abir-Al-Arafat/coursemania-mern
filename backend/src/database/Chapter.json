@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Chapter 1",
+    "subChapters": [
+      {
+        "title": "Subchapter 1.1",
+        "video": "video_url_1_1",
+        "comment": "Comment for Subchapter 1.1"
+      },
+      {
+        "title": "Subchapter 1.2",
+        "video": "video_url_1_2",
+        "comment": "Comment for Subchapter 1.2"
+      }
+    ],
+    "description": "Description for Chapter 1",
+    "course": "6533fcb5f6798fbdbda856c6"
+  },
+  {
+    "title": "Chapter 2",
+    "subChapters": [
+      {
+        "title": "Subchapter 2.1",
+        "video": "video_url_2_1",
+        "comment": "Comment for Subchapter 2.1"
+      },
+      {
+        "title": "Subchapter 2.2",
+        "video": "video_url_2_2",
+        "comment": "Comment for Subchapter 2.2"
+      }
+    ],
+    "description": "Description for Chapter 2",
+    "course": "6534baad484f7f630d126df5"
+  },
+  {
+    "title": "Chapter 3",
+    "subChapters": [
+      {
+        "title": "Subchapter 3.1",
+        "video": "video_url_3_1",
+        "comment": "Comment for Subchapter 3.1"
+      },
+      {
+        "title": "Subchapter 3.2",
+        "video": "video_url_3_2",
+        "comment": "Comment for Subchapter 3.2"
+      }
+    ],
+    "description": "Description for Chapter 3",
+    "course": "6534c43e9a3b479e5701c49a"
+  },
+  {
+    "title": "Chapter 4",
+    "subChapters": [
+      {
+        "title": "Subchapter 4.1",
+        "video": "video_url_4_1",
+        "comment": "Comment for Subchapter 4.1"
+      },
+      {
+        "title": "Subchapter 4.2",
+        "video": "video_url_4_2",
+        "comment": "Comment for Subchapter 4.2"
+      }
+    ],
+    "description": "Description for Chapter 4",
+    "course": "65354ba603655b5cc1de0cd0"
+  },
+  {
+    "title": "Chapter 5",
+    "subChapters": [
+      {
+        "title": "Subchapter 5.1",
+        "video": "video_url_5_1",
+        "comment": "Comment for Subchapter 5.1"
+      },
+      {
+        "title": "Subchapter 5.2",
+        "video": "video_url_5_2",
+        "comment": "Comment for Subchapter 5.2"
+      }
+    ],
+    "description": "Description for Chapter 5",
+    "course": "course_id_5"
+  },
+  {
+    "title": "Chapter 6",
+    "subChapters": [
+      {
+        "title": "Subchapter 6.1",
+        "video": "video_url_6_1",
+        "comment": "Comment for Subchapter 6.1"
+      },
+      {
+        "title": "Subchapter 6.2",
+        "video": "video_url_6_2",
+        "comment": "Comment for Subchapter 6.2"
+      }
+    ],
+    "description": "Description for Chapter 6",
+    "course": "6533fcb5f6798fbdbda856cf"
+  },
+  {
+    "title": "Chapter 7",
+    "subChapters": [
+      {
+        "title": "Subchapter 7.1",
+        "video": "video_url_7_1",
+        "comment": "Comment for Subchapter 7.1"
+      },
+      {
+        "title": "Subchapter 7.2",
+        "video": "video_url_7_2",
+        "comment": "Comment for Subchapter 7.2"
+      }
+    ],
+    "description": "Description for Chapter 7",
+    "course": "6533fcb5f6798fbdbda856c7"
+  },
+  {
+    "title": "Chapter 8",
+    "subChapters": [
+      {
+        "title": "Subchapter 8.1",
+        "video": "video_url_8_1",
+        "comment": "Comment for Subchapter 8.1"
+      },
+      {
+        "title": "Subchapter 8.2",
+        "video": "video_url_8_2",
+        "comment": "Comment for Subchapter 8.2"
+      }
+    ],
+    "description": "Description for Chapter 8",
+    "course": "6533fcb5f6798fbdbda856cb"
+  },
+  {
+    "title": "Chapter 9",
+    "subChapters": [
+      {
+        "title": "Subchapter 9.1",
+        "video": "video_url_9_1",
+        "comment": "Comment for Subchapter 9.1"
+      },
+      {
+        "title": "Subchapter 9.2",
+        "video": "video_url_9_2",
+        "comment": "Comment for Subchapter 9.2"
+      }
+    ],
+    "description": "Description for Chapter 9",
+    "course": "6533fcb5f6798fbdbda856cd"
+  },
+  {
+    "title": "Chapter 10",
+    "subChapters": [
+      {
+        "title": "Subchapter 10.1",
+        "video": "video_url_10_1",
+        "comment": "Comment for Subchapter 10.1"
+      },
+      {
+        "title": "Subchapter 10.2",
+        "video": "video_url_10_2",
+        "comment": "Comment for Subchapter 10.2"
+      }
+    ],
+    "description": "Description for Chapter 10",
+    "course": "6533fcb5f6798fbdbda856c9"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Math Assignment",
+    "description": "Solve the following math problems",
+    "dueDate": "2023-12-01T12:00:00Z",
+    "maxPoints": 50,
+    "course": "course_id_1",
+    "chapters": ["chapter_id_1", "chapter_id_2"],
+    "subChapter": "sub_chapter_id_1",
+    "createdBy": "instructor_id_1",
+    "submissions": [
+      {
+        "learner": "learner_id_1",
+        "fileUrl": "/uploads/math_assignment_submission_1.pdf",
+        "points": 45,
+        "feedback": "Well done! Your solutions are accurate."
+      },
+      {
+        "learner": "learner_id_2",
+        "fileUrl": "/uploads/math_assignment_submission_2.pdf",
+        "points": 40,
+        "feedback": "Good effort, but some mistakes need correction."
+      }
+    ]
+  },
+  {
+    "title": "Science Assignment",
+    "description": "Write a report on a scientific experiment",
+    "dueDate": "2023-11-15T18:00:00Z",
+    "maxPoints": 75,
+    "course": "course_id_2",
+    "chapters": ["chapter_id_3", "chapter_id_4"],
+    "subChapter": "sub_chapter_id_2",
+    "createdBy": "instructor_id_2",
+    "submissions": [
+      {
+        "learner": "learner_id_3",
+        "fileUrl": "/uploads/science_assignment_submission_1.docx",
+        "points": 70,
+        "feedback": "Excellent work! Your report is detailed and well-organized."
+      },
+      {
+        "learner": "learner_id_4",
+        "fileUrl": "/uploads/science_assignment_submission_2.docx",
+        "points": 60,
+        "feedback": "Good job, but some sections could be improved."
+      }
+    ]
+  },
+  [
+    {
+      "title": "History Assignment",
+      "description": "Write an essay on a historical event",
+      "dueDate": "2023-11-20T14:00:00Z",
+      "maxPoints": 60,
+      "course": "course_id_3",
+      "chapters": ["chapter_id_5", "chapter_id_6"],
+      "subChapter": "sub_chapter_id_3",
+      "createdBy": "instructor_id_3",
+      "submissions": [
+        {
+          "learner": "learner_id_5",
+          "fileUrl": "/uploads/history_assignment_submission_1.pdf",
+          "points": 55,
+          "feedback": "Well-researched! Your essay provides a comprehensive overview."
+        },
+        {
+          "learner": "learner_id_6",
+          "fileUrl": "/uploads/history_assignment_submission_2.pdf",
+          "points": 50,
+          "feedback": "Good effort, but some historical facts need clarification."
+        }
+      ]
+    },
+    {
+      "title": "Computer Science Assignment",
+      "description": "Implement a sorting algorithm",
+      "dueDate": "2023-12-05T16:30:00Z",
+      "maxPoints": 80,
+      "course": "course_id_4",
+      "chapters": ["chapter_id_7", "chapter_id_8"],
+      "subChapter": "sub_chapter_id_4",
+      "createdBy": "instructor_id_4",
+      "submissions": [
+        {
+          "learner": "learner_id_7",
+          "fileUrl": "/uploads/cs_assignment_submission_1.py",
+          "points": 75,
+          "feedback": "Impressive implementation! Your code is efficient and well-structured."
+        },
+        {
+          "learner": "learner_id_8",
+          "fileUrl": "/uploads/cs_assignment_submission_2.py",
+          "points": 70,
+          "feedback": "Good job, but consider optimizing certain sections for better performance."
+        }
+      ]
+    }
+  ]
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Math Quiz",
+    "questions": [
+      {
+        "text": "What is 2 + 2?",
+        "options": ["3", "4", "5"],
+        "correctOptionIndex": 1
+      },
+      {
+        "text": "What is 5 * 3?",
+        "options": ["10", "15", "20"],
+        "correctOptionIndex": 1
+      },
+      {
+        "text": "What is the square root of 25?",
+        "options": ["3", "5", "7"],
+        "correctOptionIndex": 1
+      }
+    ],
+    "createdBy": "instructor_id_1",
+    "chapter": "chapter_id_1",
+    "course": "course_id_1"
+  },
+  {
+    "title": "Science Quiz",
+    "questions": [
+      {
+        "text": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2"],
+        "correctOptionIndex": 0
+      },
+      {
+        "text": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome"],
+        "correctOptionIndex": 1
+      },
+      {
+        "text": "What gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen"],
+        "correctOptionIndex": 1
+      }
+    ],
+    "createdBy": "instructor_id_2",
+    "chapter": "chapter_id_2",
+    "course": "course_id_1"
+  },
+  {
+    "title": "History Quiz",
+    "questions": [
+      {
+        "text": "In which year did the American Revolution start?",
+        "options": ["1776", "1789", "1800"],
+        "correctOptionIndex": 0
+      },
+      {
+        "text": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "John Adams"],
+        "correctOptionIndex": 0
+      },
+      {
+        "text": "Which ancient civilization built the Great Wall of China?",
+        "options": ["Roman Empire", "Chinese Empire", "Mongolian Empire"],
+        "correctOptionIndex": 1
+      }
+    ],
+    "createdBy": "instructor_id_1",
+    "chapter": "chapter_id_3",
+    "course": "course_id_2"
+  },
+  {
+    "title": "Geography Quiz",
+    "questions": [
+      {
+        "text": "What is the capital city of France?",
+        "options": ["Madrid", "Rome", "Paris"],
+        "correctOptionIndex": 2
+      },
+      {
+        "text": "Which river is the longest in the world?",
+        "options": ["Amazon", "Nile", "Mississippi"],
+        "correctOptionIndex": 1
+      },
+      {
+        "text": "Which continent is known as the 'Land Down Under'?",
+        "options": ["Africa", "Australia", "Asia"],
+        "correctOptionIndex": 1
+      }
+    ],
+    "createdBy": "instructor_id_2",
+    "chapter": "chapter_id_4",
+    "course": "course_id_2"
+  },
+  {
+    "title": "Programming Quiz",
+    "questions": [
+      {
+        "text": "What is the output of 2 + 2 in JavaScript?",
+        "options": ["3", "4", "22"],
+        "correctOptionIndex": 1
+      },
+      {
+        "text": "What is a function in programming?",
+        "options": ["A keyword", "A reusable block of code", "A variable type"],
+        "correctOptionIndex": 1
+      },
+      {
+        "text": "Which programming language is known for its simplicity and readability?",
+        "options": ["Python", "C++", "Java"],
+        "correctOptionIndex": 0
+      }
+    ],
+    "createdBy": "instructor_id_1",
+    "chapter": "chapter_id_5",
+    "course": "course_id_3"
+  }
+]

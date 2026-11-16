@@ -5,8 +5,8 @@
   "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --loader ts-node/esm ./src/app.ts",
-    "dev": "nodemon --watch src --ext ts --exec \"node ./register-ts-node.js\""
+    "start": "node init && node --loader ts-node/esm ./src/app.ts",
+    "dev": "node init && nodemon --watch src --ext ts --exec \"node ./register-ts-node.js\""
   },
   "author": "abir",
   "license": "ISC",
